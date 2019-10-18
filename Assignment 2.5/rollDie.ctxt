@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=rollDie
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=sides
+comment2.target=double\ rollDie(double)
+numComments=3
